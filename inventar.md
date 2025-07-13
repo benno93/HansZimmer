@@ -26,7 +26,3 @@
 
 - Schmuck (2000G)
 - Edelstein (500G)
-
-## Würfel der Kraft
-
-## Anstrath Laute
