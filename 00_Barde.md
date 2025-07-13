@@ -1,13 +1,5 @@
 # Der Barde - Dungeons \& Dragons 5e
 
-```mermaid
-pie showData
-    title Level 10
-    "Erreicht" : 73587
-    "Verbleibend" : 11413
-```
-> Level 11 braucht 85.000 EP
-
 ## Klassenübersicht
 
 Ob Gelehrter, Skalde oder Halunke - ein Barde webt Magie in seine Musik und seine Worte ein, um Verbündete zu inspirieren, Feinde zu entmutigen, das Bewusstsein zu beeinflussen, Illusionen zu erschaffen und sogar um Wunden zu heilen.
