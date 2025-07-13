@@ -8,20 +8,22 @@
 - **Hintergrund:** Unterhaltungskünstler
 - **Erfahrungspunkte:** 72.837
 - **Spielername:** Benno
-- **Gesinnung:** *(nicht angegeben)*
+- **Gesinnung:** *chaotisch neutral*
 
 ---
 
+[x] **Inspiration**
+
 ## 💪 Attribute
 
-| Attribut       | Wert | Modifikator |
-|----------------|------|-------------|
-| Stärke         | 14   | +2          |
-| Geschicklichkeit | 16 | +3          |
-| Konstitution   | 14   | +2          |
-| Intelligenz    | 9    | –1          |
-| Weisheit       | 12   | +1          |
-| Charisma       | 20   | +5          |
+| Attribut         | Wert | Modifikator |
+|------------------|------|-------------|
+| Stärke           | 14   | +2          |
+| Geschicklichkeit | 16   | +3          |
+| Konstitution     | 14   | +2          |
+| Intelligenz      | 9    | –1          |
+| Weisheit         | 12   | +1          |
+| Charisma         | 20   | +5          |
 
 ---
 
@@ -40,7 +42,7 @@
 
 ## 🎲 Fertigkeiten
 
-> **Übungsbonus:** +4
+**Übungsbonus:** +4
 
 | Fertigkeit               | Wert | Proficient | Expertise |
 |--------------------------|------|------------|-----------|
@@ -71,13 +73,13 @@
 
 - **Rüstungsklasse (RK):** 17
 - **Initiative:** +3
-- **Bewegungsrate:** 9 m
+- **Bewegungsrate:** 9 m / 6 Felder
 - **Trefferpunkte:** 73
 - **Trefferwürfel:** W8
 
 ### Angriffe
 
-| Waffe     | Angriffsbonus | Reichweite | Schaden     | Typ     |
+| Waffe     | Angriffsbonus  | Reichweite | Schaden     | Typ     |
 |-----------|----------------|------------|-------------|---------|
 | Langbogen | +10            | 45/180     | 1W8+7       | Stich   |
 
