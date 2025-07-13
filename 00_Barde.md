@@ -2,7 +2,7 @@
 
 ```mermaid
 pie showData
-    title XP-Fortschritt
+    title Level 10
     "Erreicht" : 72387
     "Verbleibend" : 12613
 ```
