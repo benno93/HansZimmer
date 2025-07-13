@@ -12,7 +12,7 @@
 
 ---
 
-✅ **Inspiration**
+**Inspiration:** ✅
 
 ## 💪 Attribute
 
@@ -77,9 +77,16 @@
 - **Trefferpunkte:** 73
 - **Trefferwürfel:** W8
 
-### Angriffe
+## 🗡️ Waffen
 
 | Waffe     | Angriffsbonus  | Reichweite | Schaden     | Typ     |
 |-----------|----------------|------------|-------------|---------|
 | Langbogen | +10            | 45/180     | 1W8+7       | Stich   |
 
+## Übung & Sprache
+
+**Rüstungen:** Leichte, Mittlere, Schilde 
+
+**Waffen:** Einfache, Kriegswaffen, Sonstige: Armbrust, Langschwerter, Rapiere, Kurzschwerter
+
+**Sprachen:** Gemeinsprache, Abyssisch
