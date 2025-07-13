@@ -90,3 +90,5 @@
 **Waffen:** Einfache, Kriegswaffen, Sonstige: Armbrust, Langschwerter, Rapiere, Kurzschwerter
 
 **Sprachen:** Gemeinsprache, Abyssisch
+
+**Werkzeuge:** Laute, Dudelsack, Panflöte, Trommel
