@@ -1,44 +1,6 @@
-# Hans Zimmer - Zauberbuch
-
-- [Bardenzauber](#bardenzauber)
-  - [Zaubertricks](#zaubertricks)
-    - [Magierhand](#magierhand)
-    - [Botschaft](#botschaft)
-    - [Einfache Illusion](#einfache-illusion)
-  - [Rang 1](#rang-1)
-    - [Silbrige Widerhaken / Silvery Barbs](#silbrige-widerhaken--silvery-barbs)
-    - [Wunden heilen](#wunden-heilen)
-    - [Dissonantes Flüstern](#dissonantes-flüstern)
-    - [Selbstverkleidung](#selbstverkleidung)
-  - [Rang 2](#rang-2)
-    - [Metall erhitzen](#metall-erhitzen)
-    - [Stille](#stille)
-    - [Einflüsterung](#einflüsterung)
-  - [Rang 3](#rang-3)
-    - [Hypnotisches Muster](#hypnotisches-muster)
-    - [Leomunds winzige Hütte](#leomunds-winzige-hütte)
-    - [Hellsehen](#hellsehen)
-  - [Rang 4](#rang-4)
-    - [Verwirrung](#verwirrung)
-    - [Scheingelände](#scheingelände)
-    - [Verwandlung](#verwandlung)
-  - [Rang 5](#rang-5)
-    - [Tote erwecken](#tote-erwecken)
-
 # Bardenzauber
 
 ## Zaubertricks
-
-### Magierhand
-
-**Casting Time:** 1 Aktion
-**Range/Area:** 9 m
-**Components:** V, G
-**Duration:** 1 Minute
-
-Eine geisterhafte, schwebende Hand erscheint an einem Punkt deiner Wahl in Reichweite. Die Hand bleibt für die Wirkungsdauer bestehen oder bis du sie mit einer Aktion fortschickst. Sie verschwindet auch, wenn sie sich weiter als 9 m von dir entfernt oder du den Zauber erneut wirkst.
-Als Aktion kannst du die Hand kontrollieren und sie verwenden, um mit Gegenständen zu interagieren, geschlossene Türen oder Behälter zu öffnen, einen Gegenstand aus einem geöffneten Behälter zu holen oder ihn darin zu verstauen oder den Inhalt einer Phiole auszugießen. Immer wenn du die Hand kontrollierst, darfst du sie bis zu 9 m bewegen.
-Die Hand kann nicht angreifen, keine magischen Gegenstände aktivieren oder mehr als 10 Pfund tragen.
 
 ### Botschaft
 
@@ -62,6 +24,10 @@ Du erschaffst ein Geräusch oder das Abbild eines Gegenstands, das für die Wirk
 Erschaffst du ein Geräusch, kann die Lautstärke von einem Flüstern bis zu einem Schrei reichen. Es kann sich um deine eigene Stimme handeln, die Stimme eines anderen, das Brüllen eines Löwen, schlagende Trommeln oder ein beliebiges anderes Geräusch. Du darfst einen einzigen Laut hervorrufen, der für die gesamte Wirkungsdauer anhält, oder mehrere einzelne Laute zu verschiedenen Zeitpunkten innerhalb der Wirkungsdauer.
 Erschaffst du ein Abbild eines Gegenstands - wie das eines Stuhles, schlammiger Fußabdrücke oder eine kleinen Truhe -, darf dieses nicht größer als ein Würfel mit einer Kantenlänge von 1,50 m sein. Das Abbild kann weder Geräusche, Licht, Gerüche noch andere sensorische Effekte erzeugen.
 Körperliche Interaktion mit dem Trugbild offenbart, dass es sich um eine Illusion handelt, da Dinge es einfach durchdringen. Eine Kreatur kann ihre Aktion verwenden, um das Bildnis oder das Geräusch zu untersuchen. Gelingt ihr ein Wurf auf Intelligenz (Nachforschungen) gegen den SG zum Widerstehen deiner Zauber, kann sie erkennen, dass es sich um eine Illusion handelt. Durchschaut eine Kreatur die Illusion, verblasst diese für sie.
+
+### Sternfunke
+
+### Toll the Dead
 
 ## Rang 1
 
@@ -99,16 +65,7 @@ Eine Kreatur, die du berührst, erhält eine Anzahl von Trefferpunkten zurück i
 Du stimmst flüsternd eine missklingende Melodie an, die nur eine Kreatur deiner Wahl in Reichweite hören kann. Die Kreatur wird daraufhin von schrecklichen Schmerzen erfüllt. Das Ziel muss einen Weisheitsrettungswurf ablegen. Bei einem Misserfolg erleidet es 3d6 psychischen Schaden und muss sofort seine Reaktion verwenden (falls sie noch verfügbar ist), um sich so weit von dir zu entfernen, wie es seine Bewegungsrate erlaubt. Die Kreatur bewegt sich nicht in offensichtlich gefährliches Gelände, wie Feuer oder eine Grube. Bei einem erfolgreichen Rettungswurf erleidet das Ziel nur den halben Schaden und muss sich nicht wegbewegen. Eine taube Kreatur ist bei ihrem Rettungswurf automatisch erfolgreich.
 **At higher levels:** Wenn du diesen Spruch mit einem Zauberplatz des 2. oder eines höheren Grades wirkst, steigt der Schaden für jeden Grad über den 1. hinaus um 1W6.
 
-### Selbstverkleidung
-
-**Casting Time:** 1 Aktion
-**Range/Area:** selbst
-**Components:** V, G
-**Duration:** 1 Stunde
-
-Mit diesem Zauber veränderst du dein Aussehen - inklusive deiner Kleidung, Rüstung, Waffen und anderen Besitztümern an deiner Person. Er bleibt für die Wirkungsdauer bestehen, wenn du keine Aktion verwendest, um ihn vorzeitig aufzuheben. Du kannst dich bis zu 30 cm kleiner oder größer erscheinen lassen sowie dick oder dünn beziehungsweise irgendetwas ändern, du musst also eine Gestalt annehmen, welche die gleiche Anordnung von Gliedmaßen besitzt. Ansonsten bestimmst du, wie die Illusion aussieht.
-Die Veränderungen durch diesen Zauber halten einer körperlichen Untersuchung nicht stand. Nutzt du den Spruch beispielsweise, um deiner Kleidung einen Hut beizufügen, durchdringen Gegenstände diesen einfach. Jeder, der ihn berührt, würde nichts fühlen oder nur deinen Kopf und deine Haare spüren. Lässt du dich dünner erscheinen, als du bist, würde die Hand von jemandem, der dich berühren will, gegen dich stoßen, obwohl sie scheinbar noch in der Luft schwebt.
-Eine Kreatur kann ihre Aktion verwenden, um dich zu untersuchen. Sie legt einen Wurf auf Intelligenz (Nachforschungen) gegen den SG zum Widerstehen deiner Zauber ab. Bei Erfolg bemerkt sie, dass du auf irgendeine Art verkleidet bist.
+### Schild
 
 ## Rang 2
 
@@ -134,31 +91,7 @@ Wenn eine Kreatur den Gegenstand trägt oder in der Hand hält und den Schaden e
 
 Du erschaffst eine magische Zone mit einem Radius von 4,50 m an einem Punkt deiner Wahl in Reichweite, die jede Lüge verhindert. Wenn eine Kreatur das erste Mal in einem Zug den Bereich des Zaubers betritt oder ihren Zug dort beginnt, muss sie einen Charismarettungswurf ablegen. Bei einem Misserfolg kann sie nicht bewusst lügen, solange sie sich im Bereich aufhält. Du weißt, welchen Kreaturen ihr Rettungswurf gelungen ist und welchen nicht. Eine betroffene Kreatur ist sich des Zaubers bewusst und kann es somit vermeiden, Fragen zu beantworten, auf die sie eigentlich mit einer Lüge antworten würde. Eine solche Kreatur kann eine Antwort ausweichend formulieren, solange sie noch innerhalb der Grenzen der Wahrheit bleibt.
 
-### Stille
-
-***Ritual - does not require spell slot, takes 10 minutes longer***
-
-**Casting Time:** 1 Aktion
-**Range/Area:** 36 m
-**Components:** V, G
-**Duration:** Konzentration, bis zu 10 Minuten
-
-Für die Wirkungsdauer kann kein Geräusch in einer Sphäre mit 6 m Radius entstehen oder sie durchdringen. Die Sphäre ist um einen Punkt deiner Wahl in Reichweite zentriert. Jede Kreatur und jeder Gegenstand, der sich vollständig in der Sphäre aufhält, ist immun gegen Schallschaden. Außerdem sind Kreaturen taub, solange sie sich im Bereich des Zaubers befinden. In der Sphäre ist es nicht möglich, einen Zauber zu wirken, der eine verbale Komponente besitzt.
-
-### Einflüsterung
-
-**Casting Time:** 1 Aktion
-**Range/Area:** 9 m
-**Components:** V, M
-**Materials:** eine Schlangenzunge und entweder eine Honigwabe oder ein Tropfen süßes Öl
-**Duration:** Konzentration, bis zu 8 Stunden
-**Attack/Save:** Weisheitsrettungswurf
-
-Du formulierst eine Handlungsweise (in maximal ein oder zwei Sätzen) und bringst eine Kreatur deiner Wahl auf magische Weise dazu, diese zu befolgen. Das Ziel muss sich in Reichweite befinden, dich hören und verstehen können und du musst in der Lage sein, es zu sehen.
-Kreaturen, die nicht bezaubert werden können, sind immun gegen diesen Effekt. Die Handlungsweise muss auf eine Art formuliert werden, die sinnvoll erscheint. Wenn du die Kreatur aufforderst, sich zu erstechen, sich in einen Speer zu werfen, sich anzuzünden oder etwas anderes zu tun, das ihr schadet, beendet das den Zauber automatisch.
-Das Ziel muss einen Weisheitsrettungswurf ablegen. Misslingt dieser, folgt es der beschriebenen Handlungsweise nach seinen Möglichkeiten. Dies macht die Kreatur entweder für die gesamte Wirkungsdauer oder bis die vorgegebene Handlungsweise abgeschlossen ist, in diesem Fall endet der Zauber vorzeitig.
-Du kannst auch bestimmte Bedingungen festlegen, die während der Wirkungsdauer eine bestimmte Handlung auslösen. Beispielsweise könntest du einer Ritterin einflüstern, dass sie dem ersten Bettler, dem sie begegnet, ihr Schlachtross schenkt. Wird die Bedingung nicht erfüllt, ehe der Zauber endet, führt das Ziel die Handlung nicht aus.
-Wenn du oder einer deiner Gefährten das Ziel verletzt, endet der Zauber.
+### Seiltrick
 
 ## Rang 3
 
@@ -186,18 +119,7 @@ Der Zauber endet für eine betroffene Kreatur, wenn sie Schaden erleidet oder ei
 Eine unbewegliche Kuppel aus Energie mit einem Radius von 3 m entsteht um dich herum und bleibt für die Wirkungsdauer an ihrem Standort. Der Zauber endet, wenn du den Bereich verlässt. Außer dir passen neun mittelgroße oder kleinere Kreaturen in die Kuppel. Der Zauber schlägt fehl, wenn der Bereich eine größere Kreatur oder mehr als neun beinhaltet. Kreaturen und Gegenstände, die sich beim Wirken des Zaubers in der Kuppel aufhalten, können sich frei durch sie bewegen. Allen anderen Kreaturen und Gegenständen ist es nicht möglich, sie zu durchschreiten. Zauber und andere magische Effekte können weder in die Kuppel eindringen noch durch sie hindurch gesprochen werden. Die Atmosphäre innerhalb des Bereichs ist angenehm und trocken, ungeachtet des Wetters außerhalb.
 Bis der Zauber endet, kannst du bestimmen, ob das Innere der Kuppel dämmrig beleuchtet oder dunkel sein soll. Die Kuppel ist von außen undurchsichtig und hat eine Farbe deiner Wahl, von innen aber ist sie transparent.
 
-### Hellsehen
-
-**Casting Time:** 10 Minuten
-**Range/Area:** 1,5 km
-**Components:** V, G, M
-**Materials:** ein Fokus im Wert von mindestens 100 GM, entweder ein juwelenbesetztes Horn zum Hören oder ein Glasauge zum Sehen
-**Duration:** Konzentration, bis zu 10 Minuten
-
-Du erschaffst einen unsichtbaren Sensor in Reichweite, und zwar an einem Ort, der dir vertraut ist (den du entweder besucht oder schon einmal gesehen hast), oder an einem offensichtlichen Ort, der dir nicht vertraut ist (wie hinter einer Tür, um eine Ecke oder innerhalb eines Hains voller Bäume).
-Der Sensor verbleibt für die Wirkungsdauer an seinem Ort und kann weder angegriffen noch anderweitig beeinflusst werden.
-Wenn du den Zauber wirkst, wählst du entweder Sicht oder Gehör. Du kannst den gewählten Sinn durch den Sensor verwenden, als würdest du dich in seinem Bereich befinden. Als Aktion kannst du zwischen Sicht und Gehör wechseln.
-Eine Kreatur, die den Sensor sehen kann (weil sie beispielsweise unter dem Einfluss des Zaubers Unsichtbares sehen steht oder über wahre Sicht verfügt), nimmt ihn als leuchtende, etwa faustgroße und unberührbare Kugel wahr.
+### Gegenzauber
 
 ## Rang 4
 
@@ -266,3 +188,5 @@ Die Ausrüstung des Ziels verschmilzt mit der neuen Form. Die Kreatur kann keine
 Du holst eine verstorbene Kreatur ins Leben zurück, vorausgesetzt sie ist nicht länger als 10 Tage tot. Wenn die Seele des Ziels frei und willig ist, wird die Kreatur mit 1 Trefferpunkt wiederbelebt. Der Zauber neutralisiert alle Gifte und heilt nicht-magische Krankheiten, unter denen das Ziel zum Zeitpunkt seines Todes litt. Er kann jedoch keine magischen Krankheiten, Flüche oder ähnlichen Effekte aufheben. Werden diese nicht vor dem Wirken des Zaubers entfernt, treten sie wieder in Kraft, wenn die Kreatur zum Leben erwacht. Untote Kreaturen können nicht als Ziel gewählt werden.
 Der Zauber schließt alle tödlichen Wunden, stellt aber keine abgetrennten Gliedmaßen wieder her. Fehlen der Kreatur Körperteile oder Organe, die zum Überleben notwendig sind, wie der Kopf, schlägt der Zauber automatisch fehl.
 Von den Toten zurückzukehren, ist eine wahre Prüfung für das Ziel. Es erleidet einen Malus von 4 auf alle Angriffs-, Rettungs- und Attributswürfe. Immer wenn es eine lange Rast beendet, reduziert sich der Malus um 1, bis er aufgehoben ist.
+
+### Yolandes majestätische Präsenz
