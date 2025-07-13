@@ -18,11 +18,13 @@
 
 # Geld
 
-- Platin:
-- Gold: 1145
-- EM:
-- SM:
-- KM:
+- Platinmünzen:
+- Goldmünzen: 1145
+- Elektrummünzen:
+- Silbermünzen:
+- Kupfermünzen:
+
+## Sonstige Reichtümer
 
 - Schmuck (2000G)
 - Edelstein (500G)
