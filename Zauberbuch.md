@@ -27,7 +27,23 @@ Körperliche Interaktion mit dem Trugbild offenbart, dass es sich um eine Illusi
 
 ### Sternfunke
 
+**Casting Time:** 1 Aktion
+**Range/Area:** 18m
+**Components:** V, G
+**Duration:** unmittelbar
+
+Du schleuderst einen Lichtfunken auf eine Kreatur oder einen Gegenstand in Reichweite. Führe einen Fernkampf-Zauberangriff gegen das Ziel aus. Bei einem Treffer erleidet das Ziel 1W8 gleißenden Schaden, und bis zum Ende deines nächsten Zuges spendet es in einem Radius von drei Metern dämmriges Licht und kann nicht unsichtbar werden.
+*Zaubertrick-Aufwertung:* Der Schaden wird um jeweils 1W8 erhöht, wenn du die 5. (2W8), die 11. (3W8) und die 17. (4W8) Stufe erreichst.
+
 ### Toll the Dead
+
+**Casting Time:** 1 Aktion
+**Range/Area:** 18m
+**Components:** V, G
+**Duration:** unmittelbar
+
+Du deutest auf eine Kreatur, die du innerhalb der Reichweite sehen kannst, und der Klang einer Trauerglocke erfüllt für einen Moment die Luft um sie. Das Ziel muss einen Weisheitsrettungswurf bestehen oder erleidet 1W8 nekrotischen Schaden. Falls dem Ziel eine beliebige Menge Trefferpunkte fehlt, nimmt es stattdessen 1W12 nekrotischen Schaden.
+Der Schaden des Zaubers erhöht sich um einen Würfel, wenn du Stufe 5 erreichst (2W8 oder 2W12), Stufe 11 (3W8 oder 3W12) und Stufe 17 (4W8 oder 4W12).
 
 ## Rang 1
 
