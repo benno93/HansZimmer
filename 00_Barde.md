@@ -3,9 +3,10 @@
 ```mermaid
 pie showData
     title Level 10
-    "Erreicht" : 72387
-    "Verbleibend" : 12613
+    "Erreicht" : 73587
+    "Verbleibend" : 11413
 ```
+<> Level 11 braucht 85.000 EP
 
 ## Klassenübersicht
 
