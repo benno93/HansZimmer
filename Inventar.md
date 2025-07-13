@@ -10,11 +10,14 @@
 - Rythm Makers Drum (legendary) +4
 - Seil
 
-# Ausrüstung
+# Ausrüstung (x = eingestimmt)
 
 - beschl. Lederrüstung
 - verzierte Laute
 - Dudelsack
+- [x] Daerns flotte Festung
+- [x] Würfel der Kraft
+- [x] Anstrath Laute
 
 # Geld
 
