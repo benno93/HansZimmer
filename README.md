@@ -60,4 +60,69 @@
 | Religion (Int)           | +1   | ❌          | ❌        |
 | Täuschen (Cha)           | +9   | ✅          | ❌        |
 | Überlebenskunst (Wei)    | +3   | ❌          | ❌        |
-| Überzeugen (Cha)         | +13  | ✅
+| Überzeugen (Cha)         | +13  | ✅          | ✅        |
+| Wahrnehmung (Wei)        | +3   | ❌          | ❌        |
+
+**Passive Wahrnehmung:** 13
+
+---
+
+## 🛡️ Kampf
+
+- **Rüstungsklasse (RK):** 17
+- **Initiative:** +3
+- **Bewegungsrate:** 9 m
+- **Trefferpunkte:** 73
+- **Trefferwürfel:** W8
+
+### Angriffe
+
+| Waffe     | Angriffsbonus | Reichweite | Schaden     | Typ     |
+|-----------|----------------|------------|-------------|---------|
+| Langbogen | +10            | 45/180     | 1W8+7       | Stich   |
+
+---
+
+## 🎭 Merkmale
+
+- **Persönlichkeitsmerkmale:** *(nicht angegeben)*
+- **Ideale:** *(nicht angegeben)*
+- **Bindungen:** *(nicht angegeben)*
+- **Makell:** *(nicht angegeben)*
+
+---
+
+## 🧰 Ausrüstung & Proficiencies
+
+- **Rüstungen:** Leicht ✅, Mittel ✅, Schilde ✅, Schwer ❌
+- **Waffen:** Einfach ✅, Kriegswaffen ✅, Armbrust, Langschwert, Rapier, Kurzschwert ✅
+- **Werkzeuge:** Laute, Dudelsack, Panflöte, Trommel
+- **Sprachen:** Gemeinsprache, Abyssisch
+
+---
+
+## 🧙‍♂️ Zauberwirken
+
+- **Zauberklasse:** Barde
+- **Attribut:** Charisma
+- **Zauber-Angriffsbonus:** +13 (9 + Übungsbonus 4)
+- **Zauber-Rettungswurf-SG:** 21 (17 + Übungsbonus 4)
+
+### Zaubertricks
+
+- Botschaft  
+- Einfache Illusion  
+- Sternfunke  
+- Toll the Dead
+
+### Beispielhafte Zauber
+
+- **Stufe 1:** Silvery Barbs, Wunden heilen, Dissonantes Flüstern, Schild  
+- **Stufe 2:** Metall erhitzen, Seiltrick  
+- **Stufe 3:** Hypnotisches Muster, Leomunds Hütte, Gegenzauber  
+- **Stufe 4:** Verwirrung, Scheingelände, Verwandlung  
+- **Stufe 5:** Tote erwecken, Yolandes majestätische Präsenz  
+
+---
+
+*D&D 5e Charakterbogen v2.8.2 © 2022 André Taendler*
