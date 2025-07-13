@@ -6,7 +6,7 @@ pie showData
     "Erreicht" : 73587
     "Verbleibend" : 11413
 ```
-<> Level 11 braucht 85.000 EP
+> Level 11 braucht 85.000 EP
 
 ## Klassenübersicht
 
