@@ -82,7 +82,7 @@
 | Waffe                   |Übungsbonus  | Angriffsbonus  | Reichweite | Schaden     | Typ         |Sonstiges |
 |-------------------------|-------------|----------------|------------|-------------|-------------|----------|
 | Langbogen               |x            |+10             | 45m/180m   | 1W8+7       | Stich       ||
-| Klinge der Macht (gelb) |x            |+6              | 1,5m       |1W10+3W8     |Hieb+Gleißend|+1Zauber RW SG&+1Zauberangriffbonus|
+| Klinge der Macht (gelb) |x            |+6              | 1,5m       |1W10+3W8     |Hieb+Gleißend|+1 Zauber RW SG & +1 Zauberangriffbonus|
 
 ## Übung & Sprache
 
