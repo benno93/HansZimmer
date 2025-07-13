@@ -1,5 +1,11 @@
 # Der Barde - Dungeons \& Dragons 5e
 
+```mermaid
+pie title XP-Fortschritt
+    "Erreicht" : 72387
+    "Verbleibend" : 12613
+```
+
 ## Klassenübersicht
 
 Ob Gelehrter, Skalde oder Halunke - ein Barde webt Magie in seine Musik und seine Worte ein, um Verbündete zu inspirieren, Feinde zu entmutigen, das Bewusstsein zu beeinflussen, Illusionen zu erschaffen und sogar um Wunden zu heilen.
