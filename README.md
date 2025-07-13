@@ -12,7 +12,7 @@
 
 ---
 
-[x] **Inspiration**
+✅ **Inspiration**
 
 ## 💪 Attribute
 
