@@ -1,5 +1,14 @@
 # 🧝‍♂️ Charakterbogen – D&D 5e
 
+```mermaid
+pie showData
+    title Level 10
+    "Erreicht" : 73587
+    "Verbleibend" : 11413
+```
+> Level 11 braucht 85.000 EP
+
+
 ## 🪶 Allgemeine Informationen
 
 - **Charaktername:** Sir Hans Zimmer
