@@ -83,6 +83,13 @@ Du stimmst flüsternd eine missklingende Melodie an, die nur eine Kreatur deiner
 
 ### Schild
 
+**Casting Time:** 1 Reaktion, die du ausführst, wenn du von einem Angriff getroffen oder Ziel des Zaubers Magisches Geschoss wirst
+**Range/Area:** Selbst
+**Components:** V, G
+**Duration:** 1 Runde
+
+Eine unsichtbare Barriere aus magischer Energie erscheint und schützt dich. Bis zum Beginn deines nächsten Zuges hast du einen Bonus von +5 auf deine RK, auch gegen den auslösenden Angriff, und erleidest keinen Schaden durch den Zauber Magisches Geschoss.
+
 ## Rang 2
 
 ### Metall erhitzen
