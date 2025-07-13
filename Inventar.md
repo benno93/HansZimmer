@@ -18,11 +18,11 @@
 
 # Geld
 
-- Platinmünzen:
+- Platinmünzen: 0
 - Goldmünzen: 1145
-- Elektrummünzen:
-- Silbermünzen:
-- Kupfermünzen:
+- Elektrummünzen: 0
+- Silbermünzen: 0
+- Kupfermünzen: 0
 
 ## Sonstige Reichtümer
 
