@@ -206,3 +206,18 @@ Der Zauber schließt alle tödlichen Wunden, stellt aber keine abgetrennten Glie
 Von den Toten zurückzukehren, ist eine wahre Prüfung für das Ziel. Es erleidet einen Malus von 4 auf alle Angriffs-, Rettungs- und Attributswürfe. Immer wenn es eine lange Rast beendet, reduziert sich der Malus um 1, bis er aufgehoben ist.
 
 ### Yolandes majestätische Präsenz
+
+**Casting Time:** Aktion
+**Range/Area:** Selbst
+**Components:** V, G, M
+**Duration:** 1min
+
+Du umgibst dich in einer Ausströmung von drei Metern mit überirdischer Erhabenheit. Wann immer die Aussträmung in den Bereich einer Kreatur in den Bereich einer Kreatur gelangt, die du sehen kannst, und wann immer eine Kreatur, die du sehen kannst, die Ausströmung betritt oder ihren Zug dort beendet, kannst du die Kreatur zu einem Weisheitsrettungswurf zwingen. Scheitert der Wurf, so erleidet das Ziel 4W6 psychischen Schaden und ist **liegend**, und du kannst es bis zu **drei Meter** weit weg schieben. Bei einem erfolgreichen Rettungswurf erleidet das Ziel nur halb so viel Schaden. Eine Kreatur kann diesen Rettungswurf nur einmal pro Zug ausführen.
+
+
+
+
+
+
+
+
