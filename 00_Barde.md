@@ -1,7 +1,8 @@
 # Der Barde - Dungeons \& Dragons 5e
 
 ```mermaid
-pie title XP-Fortschritt
+pie showData
+    title XP-Fortschritt
     "Erreicht" : 72387
     "Verbleibend" : 12613
 ```
