@@ -17,7 +17,7 @@ Ob Gelehrter, Skalde oder Halunke - ein Barde webt Magie in seine Musik und sein
 | 7 | +3 | - | 3 | 10 | 4 | 3 | 3 | 1 | - | - | - | - | - |
 | 8 | +3 | Attributswerterhöhung | 3 | 11 | 4 | 3 | 3 | 2 | - | - | - | - | - |
 | 9 | +4 | Lied der Erholung (d8) | 3 | 12 | 4 | 3 | 3 | 3 | 1 | - | - | - | - |
-| 10 | +4 | Bardische Inspiration (d10), Expertise, Magische Geheimnisse | 4 | 14 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
+| $\color{red}{\text{10}}$ | +4 | Bardische Inspiration (d10), Expertise, Magische Geheimnisse | 4 | 14 | 4 | 3 | 3 | 3 | 2 | - | - | - | - |
 | 11 | +4 | - | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
 | 12 | +4 | Attributswerterhöhung | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | - | - | - |
 | 13 | +5 | Lied der Erholung (d10) | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | - | - |
