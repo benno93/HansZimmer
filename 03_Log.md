@@ -32,7 +32,14 @@
 - Hab das Gefühl der Kapitän führt was in Schilde
 - schleich mich mit Krusk in die Kajüte und er erkennt mit Truth SIght absolut nix, gehen daraufhin wieder ins Bett
 
-### Tag 06 - 4. Seetag
+### Tag 06 - 4. Seetag - Niewinter
 
 - Niewinter in Sicht
-- 
+- gehen mit Marilena zu ihrem Laden
+- der Laden in einer Gasse ist komplett zerfallen
+- Marilena plötzlich verschwunden
+- gehen rein - etwa 40 Jahre nix mehr passiert
+- Marilena hat sich das Leben genommen, Stein an Fuß und in Hafenbecken
+- alle anderen hatten auch Sexytime mit ihr
+- gehen zum Friedhof
+- finden Marilenas Grab, "frisch begraben" - grab aufgemacht, aber 40 jahre alte Leiche drin
