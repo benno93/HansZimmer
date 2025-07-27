@@ -16,8 +16,8 @@
 - verzierte Laute
 - Dudelsack
 - [ ] Daerns flotte Festung -> Krusk
-- [ ] Würfel der Kraft
-- [x] Anstrath Laute
+- [x] Würfel der Kraft
+- [ ] Anstrath (Fake) Laute
 - [x] Rythm Maker's Drum
 - [x] Klinge der Macht
 
