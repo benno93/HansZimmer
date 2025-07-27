@@ -43,3 +43,4 @@
 - alle anderen hatten auch Sexytime mit ihr
 - gehen zum Friedhof
 - finden Marilenas Grab, "frisch begraben" - grab aufgemacht, aber 40 jahre alte Leiche drin
+- Marilena ist ein Shapeshifter, man weiß aber nichts darüber
