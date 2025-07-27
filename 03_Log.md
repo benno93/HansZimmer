@@ -44,3 +44,5 @@
 - gehen zum Friedhof
 - finden Marilenas Grab, "frisch begraben" - grab aufgemacht, aber 40 jahre alte Leiche drin
 - Marilena ist ein Shapeshifter, man weiß aber nichts darüber
+- Wieder zurück an Bord
+- Jedem von uns wurde durch Sexytime ein Item "ausgestimmt" und nach Untersuchung meiner Laute sieht diese "komisch" aus
