@@ -3,8 +3,8 @@
 ```mermaid
 pie showData
     title Level 10
-    "Erreicht" : 73587
-    "Verbleibend" : 11413
+    "Erreicht" : 74037
+    "Verbleibend" : 10963
 ```
 > Level 11 braucht 85.000 EP
 
@@ -15,7 +15,7 @@ pie showData
 - **Klasse & Stufe:** Barde (Stufe 10)
 - **Volk:** Mensch (Tethyranier)
 - **Hintergrund:** Unterhaltungskünstler
-- **Erfahrungspunkte:** 72.837
+- **Erfahrungspunkte:** siehe oben
 - **Spielername:** Benno
 - **Gesinnung:** *chaotisch neutral*
 
