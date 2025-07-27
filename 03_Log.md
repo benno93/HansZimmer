@@ -28,7 +28,7 @@
 
 ### Tag 05 - 3. Seetag
 
-- Motive erkennen abends: 1
+- Motive erkennen abends: Nat1
 - Hab das Gefühl der Kapitän führt was in Schilde
 - schleich mich mit Krusk in die Kajüte und er erkennt mit Truth SIght absolut nix, gehen daraufhin wieder ins Bett
 
@@ -46,3 +46,8 @@
 - Marilena ist ein Shapeshifter, man weiß aber nichts darüber
 - Wieder zurück an Bord
 - Jedem von uns wurde durch Sexytime ein Item "ausgestimmt" und nach Untersuchung meiner Laute sieht diese "komisch" aus
+- Lange Rast in Leomunds Hütte
+
+### Tag 07
+
+- 
