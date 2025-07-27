@@ -52,7 +52,10 @@
 
 - zum Friedhof - Kobold sagte, dass als kurz nachdem wir zurück von den Damazener Inseln kamen, eine Frau das Grab ausgehoben hat
 - die Frau könnte die gewesen sein, die wir auf dem Schiff getroffen haben bei der wir den Enkeltrick machen wollten
-- Zurück zum Hafen
+- zur schäbigsten Haventaverne
+- Auftreten Nat20 !
+- Mit dem piratigsten Piraten gequatscht, kennt keine Marilena/alte Frau
+- Der Untergrund sucht nach Marilena/alte Frau
 
 
 
