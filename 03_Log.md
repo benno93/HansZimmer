@@ -13,4 +13,26 @@
 - Belohnung abgeholt, Krusk hat das aufgeschrieben
 - Rückweg nach Baldurs Gate
 - Schiff in der Nähe von Goldtal
+- per Beiboot übersetzen auf Schiff
 
+
+### Tag 03 - 1. Seetag
+
+- Müssen auf Motive erkenen würfeln: 7 - abends
+- Marilena kommt nachts zum knicknack in meine Koje
+
+### Tag 04 - 2. Seetag
+
+- Marilena ist morgens verschwunden
+- Müssen nochmal auf Motive erkennen würfeln: 9
+
+### Tag 05 - 3. Seetag
+
+- Motive erkennen abends: 1
+- Hab das Gefühl der Kapitän führt was in Schilde
+- schleich mich mit Krusk in die Kajüte und er erkennt mit Truth SIght absolut nix, gehen daraufhin wieder ins Bett
+
+### Tag 06 - 4. Seetag
+
+- Niewinter in Sicht
+- 
