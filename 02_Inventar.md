@@ -15,7 +15,7 @@
 - beschl. Lederrüstung
 - verzierte Laute
 - Dudelsack
-- [ ] Daerns flotte Festung
+- [ ] Daerns flotte Festung -> Krusk
 - [ ] Würfel der Kraft
 - [x] Anstrath Laute
 - [x] Rythm Maker's Drum
