@@ -42,8 +42,11 @@ Du schleuderst einen Lichtfunken auf eine Kreatur oder einen Gegenstand in Reich
 **Components:** V, G
 **Duration:** unmittelbar
 
-Du deutest auf eine Kreatur, die du innerhalb der Reichweite sehen kannst, und der Klang einer Trauerglocke erfüllt für einen Moment die Luft um sie. Das Ziel muss einen Weisheitsrettungswurf bestehen oder erleidet 1W8 nekrotischen Schaden. Falls dem Ziel eine beliebige Menge Trefferpunkte fehlt, nimmt es stattdessen 1W12 nekrotischen Schaden.
-Der Schaden des Zaubers erhöht sich um einen Würfel, wenn du Stufe 5 erreichst (2W8 oder 2W12), Stufe 11 (3W8 oder 3W12) und Stufe 17 (4W8 oder 4W12).
+You point at one creature you can see within range, and the single chime of a dolorous bell is audible within 10 feet of the target. The target must succeed on a Wisdom saving throw or take 1d8 necrotic damage. If the target is missing any of its Hit Points, it instead takes 1d12 necrotic damage.
+
+At higher levels:
+
+The spell’s damage increases by one die when you reach 5th level (2d8 or 2d12), 11th level (3d8 or 3d12), and 17th level (4d8 or 4d12).
 
 ## Rang 1
 
