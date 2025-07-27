@@ -16,9 +16,10 @@
 - verzierte Laute
 - Dudelsack
 - [ ] Daerns flotte Festung
-- [x] Würfel der Kraft
+- [ ] Würfel der Kraft
 - [x] Anstrath Laute
 - [x] Rythm Maker's Drum
+- [x] Klinge der Macht
 
 # Geld
 
