@@ -9,6 +9,7 @@
 - Daerns flotte Festung
 - Rythm Makers Drum (legendary) +4
 - Seil
+- Stein der Verständigung - Leyla
 
 # Ausrüstung (x = eingestimmt)
 
